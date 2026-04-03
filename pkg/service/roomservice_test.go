@@ -26,10 +26,10 @@ import (
 	"github.com/livekit/protocol/rpc"
 	"github.com/livekit/protocol/rpc/rpcfakes"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/routing/routingfakes"
-	"github.com/stoatchat/livekit-server/pkg/service"
-	"github.com/stoatchat/livekit-server/pkg/service/servicefakes"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/routing/routingfakes"
+	"github.com/stoked/livekit-server/pkg/service"
+	"github.com/stoked/livekit-server/pkg/service/servicefakes"
 )
 
 func TestDeleteRoom(t *testing.T) {

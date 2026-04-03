@@ -20,7 +20,7 @@ import (
 
 	"go.uber.org/zap/zapcore"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/ccutils"
+	"github.com/stoked/livekit-server/pkg/sfu/ccutils"
 	"github.com/livekit/protocol/logger"
 )
 

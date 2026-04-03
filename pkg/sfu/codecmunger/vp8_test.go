@@ -22,8 +22,8 @@ import (
 
 	"github.com/livekit/protocol/logger"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
-	"github.com/stoatchat/livekit-server/pkg/sfu/testutils"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/testutils"
 )
 
 func compare(expected *VP8, actual *VP8) bool {

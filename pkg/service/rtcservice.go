@@ -39,12 +39,12 @@ import (
 	"github.com/livekit/protocol/logger"
 	"github.com/livekit/psrpc"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/routing"
-	"github.com/stoatchat/livekit-server/pkg/rtc"
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
-	"github.com/stoatchat/livekit-server/pkg/telemetry/prometheus"
-	"github.com/stoatchat/livekit-server/pkg/utils"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/routing"
+	"github.com/stoked/livekit-server/pkg/rtc"
+	"github.com/stoked/livekit-server/pkg/telemetry"
+	"github.com/stoked/livekit-server/pkg/telemetry/prometheus"
+	"github.com/stoked/livekit-server/pkg/utils"
 )
 
 type RTCService struct {

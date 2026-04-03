@@ -17,7 +17,7 @@ package routing
 import (
 	"context"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/config"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/rpc"
 	"github.com/livekit/psrpc"

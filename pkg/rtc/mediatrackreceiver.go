@@ -32,13 +32,13 @@ import (
 	"github.com/livekit/protocol/logger"
 	"github.com/livekit/protocol/utils"
 
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
-	"github.com/stoatchat/livekit-server/pkg/sfu"
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
-	"github.com/stoatchat/livekit-server/pkg/sfu/rtpstats"
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
-	sutils "github.com/stoatchat/livekit-server/pkg/utils"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/sfu"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/sfu/rtpstats"
+	"github.com/stoked/livekit-server/pkg/telemetry"
+	sutils "github.com/stoked/livekit-server/pkg/utils"
 )
 
 const (

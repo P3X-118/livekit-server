@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/livekit/protocol/livekit"
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
 )
 
 type FakeRoom struct {

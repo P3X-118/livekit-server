@@ -22,8 +22,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
 	"github.com/livekit/protocol/livekit"
 )
 

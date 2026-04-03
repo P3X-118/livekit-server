@@ -36,12 +36,12 @@ import (
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/rtc"
-	"github.com/stoatchat/livekit-server/pkg/sfu/datachannel"
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
-	"github.com/stoatchat/livekit-server/pkg/testutils"
-	testclient "github.com/stoatchat/livekit-server/test/client"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/rtc"
+	"github.com/stoked/livekit-server/pkg/sfu/datachannel"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/testutils"
+	testclient "github.com/stoked/livekit-server/test/client"
 )
 
 const (

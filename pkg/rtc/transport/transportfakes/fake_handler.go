@@ -6,9 +6,9 @@ import (
 
 	"github.com/livekit/protocol/livekit"
 	webrtc "github.com/pion/webrtc/v4"
-	"github.com/stoatchat/livekit-server/pkg/rtc/transport"
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
-	"github.com/stoatchat/livekit-server/pkg/sfu/streamallocator"
+	"github.com/stoked/livekit-server/pkg/rtc/transport"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/sfu/streamallocator"
 )
 
 type FakeHandler struct {

@@ -21,9 +21,9 @@ import (
 
 	"github.com/twitchtv/twirp"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/routing"
-	"github.com/stoatchat/livekit-server/pkg/rtc"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/routing"
+	"github.com/stoked/livekit-server/pkg/rtc"
 	"github.com/livekit/protocol/egress"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"

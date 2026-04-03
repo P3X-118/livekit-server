@@ -31,8 +31,8 @@ import (
 	"github.com/livekit/protocol/utils/guid"
 	"github.com/livekit/psrpc"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/telemetry"
 )
 
 type SIPService struct {

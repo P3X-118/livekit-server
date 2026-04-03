@@ -20,8 +20,8 @@ import (
 
 	"google.golang.org/protobuf/types/known/timestamppb"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
-	"github.com/stoatchat/livekit-server/pkg/telemetry/prometheus"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/telemetry/prometheus"
 	"github.com/livekit/protocol/egress"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"

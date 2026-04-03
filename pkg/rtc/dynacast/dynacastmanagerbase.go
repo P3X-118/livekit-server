@@ -21,8 +21,8 @@ import (
 
 	"github.com/livekit/protocol/logger"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
-	"github.com/stoatchat/livekit-server/pkg/utils"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/utils"
 )
 
 type dynacastManagerBaseParams struct {

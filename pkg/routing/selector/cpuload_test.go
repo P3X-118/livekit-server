@@ -21,7 +21,7 @@ import (
 
 	"github.com/livekit/protocol/livekit"
 
-	"github.com/stoatchat/livekit-server/pkg/routing/selector"
+	"github.com/stoked/livekit-server/pkg/routing/selector"
 )
 
 func TestCPULoadSelector_SelectNode(t *testing.T) {

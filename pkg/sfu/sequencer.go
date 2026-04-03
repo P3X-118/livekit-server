@@ -19,7 +19,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/utils"
+	"github.com/stoked/livekit-server/pkg/sfu/utils"
 	"github.com/livekit/protocol/logger"
 	"go.uber.org/zap/zapcore"
 )

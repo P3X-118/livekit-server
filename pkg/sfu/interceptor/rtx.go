@@ -21,7 +21,7 @@ import (
 	"github.com/pion/sdp/v3"
 	"github.com/pion/webrtc/v4"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/utils"
+	"github.com/stoked/livekit-server/pkg/sfu/utils"
 	"github.com/livekit/protocol/logger"
 )
 

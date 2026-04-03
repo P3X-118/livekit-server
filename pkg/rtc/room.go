@@ -36,16 +36,16 @@ import (
 	"github.com/livekit/protocol/utils/guid"
 	"github.com/livekit/psrpc"
 
-	"github.com/stoatchat/livekit-server/pkg/agent"
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/routing"
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
-	"github.com/stoatchat/livekit-server/pkg/sfu"
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
-	"github.com/stoatchat/livekit-server/pkg/sfu/connectionquality"
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
-	"github.com/stoatchat/livekit-server/pkg/telemetry/prometheus"
-	sutils "github.com/stoatchat/livekit-server/pkg/utils"
+	"github.com/stoked/livekit-server/pkg/agent"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/routing"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/sfu"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/connectionquality"
+	"github.com/stoked/livekit-server/pkg/telemetry"
+	"github.com/stoked/livekit-server/pkg/telemetry/prometheus"
+	sutils "github.com/stoked/livekit-server/pkg/utils"
 )
 
 const (

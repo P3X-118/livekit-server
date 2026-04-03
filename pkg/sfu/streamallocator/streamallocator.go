@@ -28,12 +28,12 @@ import (
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu"
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
-	"github.com/stoatchat/livekit-server/pkg/sfu/bwe"
-	"github.com/stoatchat/livekit-server/pkg/sfu/ccutils"
-	"github.com/stoatchat/livekit-server/pkg/sfu/pacer"
-	"github.com/stoatchat/livekit-server/pkg/utils"
+	"github.com/stoked/livekit-server/pkg/sfu"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/bwe"
+	"github.com/stoked/livekit-server/pkg/sfu/ccutils"
+	"github.com/stoked/livekit-server/pkg/sfu/pacer"
+	"github.com/stoked/livekit-server/pkg/utils"
 )
 
 const (

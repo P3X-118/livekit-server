@@ -42,11 +42,11 @@ import (
 	"github.com/livekit/protocol/logger"
 	"github.com/livekit/protocol/signalling"
 
-	"github.com/stoatchat/livekit-server/pkg/rtc"
-	"github.com/stoatchat/livekit-server/pkg/rtc/transport/transportfakes"
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/rtc"
+	"github.com/stoked/livekit-server/pkg/rtc/transport/transportfakes"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
 )
 
 type SignalRequestHandler func(msg *livekit.SignalRequest) error

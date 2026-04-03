@@ -22,7 +22,7 @@ import (
 	"github.com/pion/rtcp"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/utils"
+	"github.com/stoked/livekit-server/pkg/sfu/utils"
 	"github.com/livekit/mediatransportutil"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"

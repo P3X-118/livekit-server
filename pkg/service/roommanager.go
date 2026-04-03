@@ -24,9 +24,9 @@ import (
 	"github.com/pkg/errors"
 	"golang.org/x/exp/maps"
 
-	"github.com/stoatchat/livekit-server/pkg/agent"
-	"github.com/stoatchat/livekit-server/pkg/sfu"
-	sutils "github.com/stoatchat/livekit-server/pkg/utils"
+	"github.com/stoked/livekit-server/pkg/agent"
+	"github.com/stoked/livekit-server/pkg/sfu"
+	sutils "github.com/stoked/livekit-server/pkg/utils"
 	"github.com/livekit/mediatransportutil/pkg/rtcconfig"
 	"github.com/livekit/protocol/auth"
 	"github.com/livekit/protocol/livekit"
@@ -39,14 +39,14 @@ import (
 	"github.com/livekit/psrpc"
 	"github.com/livekit/psrpc/pkg/middleware"
 
-	"github.com/stoatchat/livekit-server/pkg/clientconfiguration"
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/routing"
-	"github.com/stoatchat/livekit-server/pkg/rtc"
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
-	"github.com/stoatchat/livekit-server/pkg/telemetry/prometheus"
-	"github.com/stoatchat/livekit-server/version"
+	"github.com/stoked/livekit-server/pkg/clientconfiguration"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/routing"
+	"github.com/stoked/livekit-server/pkg/rtc"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/telemetry"
+	"github.com/stoked/livekit-server/pkg/telemetry/prometheus"
+	"github.com/stoked/livekit-server/version"
 )
 
 const (

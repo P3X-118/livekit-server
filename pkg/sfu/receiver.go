@@ -31,12 +31,12 @@ import (
 	"github.com/livekit/protocol/utils"
 	"github.com/livekit/protocol/utils/mono"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/audio"
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
-	"github.com/stoatchat/livekit-server/pkg/sfu/connectionquality"
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
-	"github.com/stoatchat/livekit-server/pkg/sfu/rtpstats"
-	"github.com/stoatchat/livekit-server/pkg/sfu/streamtracker"
+	"github.com/stoked/livekit-server/pkg/sfu/audio"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/connectionquality"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/sfu/rtpstats"
+	"github.com/stoked/livekit-server/pkg/sfu/streamtracker"
 )
 
 var (

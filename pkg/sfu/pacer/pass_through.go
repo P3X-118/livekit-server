@@ -15,7 +15,7 @@
 package pacer
 
 import (
-	"github.com/stoatchat/livekit-server/pkg/sfu/bwe"
+	"github.com/stoked/livekit-server/pkg/sfu/bwe"
 	"github.com/livekit/protocol/logger"
 )
 

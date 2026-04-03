@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
 )
 
 // ------------------------------------------------------------

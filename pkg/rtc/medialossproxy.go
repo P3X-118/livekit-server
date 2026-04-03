@@ -23,7 +23,7 @@ import (
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu"
+	"github.com/stoked/livekit-server/pkg/sfu"
 )
 
 const (

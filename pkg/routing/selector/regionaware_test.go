@@ -24,8 +24,8 @@ import (
 	"github.com/livekit/protocol/utils"
 	"github.com/livekit/protocol/utils/guid"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/routing/selector"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/routing/selector"
 )
 
 const (

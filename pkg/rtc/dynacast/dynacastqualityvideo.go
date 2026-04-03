@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 )

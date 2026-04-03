@@ -20,7 +20,7 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/config"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 )

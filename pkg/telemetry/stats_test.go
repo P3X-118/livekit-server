@@ -21,11 +21,11 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
+	"github.com/stoked/livekit-server/pkg/telemetry"
 	"github.com/livekit/protocol/livekit"
 
-	"github.com/stoatchat/livekit-server/pkg/telemetry/prometheus"
-	"github.com/stoatchat/livekit-server/pkg/telemetry/telemetryfakes"
+	"github.com/stoked/livekit-server/pkg/telemetry/prometheus"
+	"github.com/stoked/livekit-server/pkg/telemetry/telemetryfakes"
 )
 
 func init() {

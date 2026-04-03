@@ -31,9 +31,9 @@ import (
 	"github.com/livekit/protocol/logger"
 	"github.com/livekit/protocol/logger/pionlogger"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
-	"github.com/stoatchat/livekit-server/pkg/telemetry/prometheus"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/telemetry"
+	"github.com/stoked/livekit-server/pkg/telemetry/prometheus"
 )
 
 const (

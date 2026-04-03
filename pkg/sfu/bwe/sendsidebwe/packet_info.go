@@ -15,7 +15,7 @@
 package sendsidebwe
 
 import (
-	"github.com/stoatchat/livekit-server/pkg/sfu/ccutils"
+	"github.com/stoked/livekit-server/pkg/sfu/ccutils"
 	"go.uber.org/zap/zapcore"
 )
 

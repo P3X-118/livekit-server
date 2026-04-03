@@ -20,8 +20,8 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
-	dd "github.com/stoatchat/livekit-server/pkg/sfu/rtpextension/dependencydescriptor"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
+	dd "github.com/stoked/livekit-server/pkg/sfu/rtpextension/dependencydescriptor"
 )
 
 type StreamTrackerDependencyDescriptor struct {

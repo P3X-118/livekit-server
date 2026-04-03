@@ -21,7 +21,7 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
 	"github.com/livekit/protocol/logger"
 )
 

@@ -21,7 +21,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
+	"github.com/stoked/livekit-server/pkg/telemetry"
 	"github.com/livekit/protocol/livekit"
 )
 

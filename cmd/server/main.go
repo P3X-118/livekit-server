@@ -28,14 +28,14 @@ import (
 
 	"github.com/urfave/cli/v3"
 
-	"github.com/stoatchat/livekit-server/pkg/rtc"
-	"github.com/stoatchat/livekit-server/pkg/telemetry/prometheus"
+	"github.com/stoked/livekit-server/pkg/rtc"
+	"github.com/stoked/livekit-server/pkg/telemetry/prometheus"
 	"github.com/livekit/protocol/logger"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/routing"
-	"github.com/stoatchat/livekit-server/pkg/service"
-	"github.com/stoatchat/livekit-server/version"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/routing"
+	"github.com/stoked/livekit-server/pkg/service"
+	"github.com/stoked/livekit-server/version"
 )
 
 var baseFlags = []cli.Flag{

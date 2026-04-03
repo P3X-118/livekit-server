@@ -22,7 +22,7 @@ import (
 	"github.com/livekit/protocol/logger"
 	"golang.org/x/exp/maps"
 
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
 	"github.com/livekit/protocol/utils"
 )
 

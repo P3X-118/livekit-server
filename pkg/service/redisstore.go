@@ -34,7 +34,7 @@ import (
 	"github.com/livekit/protocol/utils/guid"
 	"github.com/livekit/psrpc"
 
-	"github.com/stoatchat/livekit-server/version"
+	"github.com/stoked/livekit-server/version"
 )
 
 const (

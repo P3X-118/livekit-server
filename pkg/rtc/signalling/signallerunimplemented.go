@@ -15,8 +15,8 @@
 package signalling
 
 import (
-	"github.com/stoatchat/livekit-server/pkg/routing"
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/routing"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
 
 	"google.golang.org/protobuf/proto"
 )

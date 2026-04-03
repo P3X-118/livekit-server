@@ -24,7 +24,7 @@ import (
 	"github.com/livekit/protocol/auth"
 	"github.com/livekit/protocol/auth/authfakes"
 
-	"github.com/stoatchat/livekit-server/pkg/service"
+	"github.com/stoked/livekit-server/pkg/service"
 )
 
 func TestAuthMiddleware(t *testing.T) {

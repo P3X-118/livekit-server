@@ -18,9 +18,9 @@ import (
 	"github.com/pion/sdp/v3"
 	"github.com/pion/webrtc/v4"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
-	dd "github.com/stoatchat/livekit-server/pkg/sfu/rtpextension/dependencydescriptor"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
+	dd "github.com/stoked/livekit-server/pkg/sfu/rtpextension/dependencydescriptor"
 	"github.com/livekit/mediatransportutil/pkg/rtcconfig"
 )
 

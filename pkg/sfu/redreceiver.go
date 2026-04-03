@@ -23,7 +23,7 @@ import (
 	"github.com/pion/rtp"
 	"github.com/pion/webrtc/v4"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
 	"github.com/livekit/mediatransportutil/pkg/bucket"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"

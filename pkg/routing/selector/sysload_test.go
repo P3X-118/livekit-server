@@ -22,7 +22,7 @@ import (
 
 	"github.com/livekit/protocol/livekit"
 
-	"github.com/stoatchat/livekit-server/pkg/routing/selector"
+	"github.com/stoked/livekit-server/pkg/routing/selector"
 )
 
 var (

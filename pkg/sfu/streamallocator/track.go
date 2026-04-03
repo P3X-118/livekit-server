@@ -18,8 +18,8 @@ import (
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu"
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
 )
 
 type Track struct {

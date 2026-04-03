@@ -19,15 +19,15 @@ import (
 	"slices"
 	"sync"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 	"github.com/pion/webrtc/v4"
 	"go.uber.org/atomic"
 
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
-	"github.com/stoatchat/livekit-server/pkg/sfu"
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/sfu"
+	"github.com/stoked/livekit-server/pkg/telemetry"
 )
 
 var (

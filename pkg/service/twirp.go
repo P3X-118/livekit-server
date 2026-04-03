@@ -26,9 +26,9 @@ import (
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/types/known/timestamppb"
 
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
-	"github.com/stoatchat/livekit-server/pkg/telemetry/prometheus"
-	"github.com/stoatchat/livekit-server/pkg/utils"
+	"github.com/stoked/livekit-server/pkg/telemetry"
+	"github.com/stoked/livekit-server/pkg/telemetry/prometheus"
+	"github.com/stoked/livekit-server/pkg/utils"
 	"github.com/livekit/protocol/livekit"
 )
 

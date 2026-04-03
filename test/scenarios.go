@@ -25,8 +25,8 @@ import (
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 
-	"github.com/stoatchat/livekit-server/pkg/testutils"
-	testclient "github.com/stoatchat/livekit-server/test/client"
+	"github.com/stoked/livekit-server/pkg/testutils"
+	testclient "github.com/stoked/livekit-server/test/client"
 )
 
 // a scenario with lots of clients connecting, publishing, and leaving at random periods

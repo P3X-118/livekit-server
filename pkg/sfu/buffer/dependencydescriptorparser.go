@@ -22,8 +22,8 @@ import (
 	"github.com/pion/rtp"
 	"go.uber.org/atomic"
 
-	dd "github.com/stoatchat/livekit-server/pkg/sfu/rtpextension/dependencydescriptor"
-	"github.com/stoatchat/livekit-server/pkg/sfu/utils"
+	dd "github.com/stoked/livekit-server/pkg/sfu/rtpextension/dependencydescriptor"
+	"github.com/stoked/livekit-server/pkg/sfu/utils"
 
 	"github.com/livekit/protocol/logger"
 )

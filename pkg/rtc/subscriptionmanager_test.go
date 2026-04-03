@@ -24,10 +24,10 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.uber.org/atomic"
 
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
-	"github.com/stoatchat/livekit-server/pkg/rtc/types/typesfakes"
-	"github.com/stoatchat/livekit-server/pkg/telemetry/telemetryfakes"
-	"github.com/stoatchat/livekit-server/pkg/utils"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/rtc/types/typesfakes"
+	"github.com/stoked/livekit-server/pkg/telemetry/telemetryfakes"
+	"github.com/stoked/livekit-server/pkg/utils"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 )

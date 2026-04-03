@@ -31,7 +31,7 @@ import (
 	"github.com/livekit/protocol/utils/guid"
 	"github.com/livekit/psrpc"
 
-	"github.com/stoatchat/livekit-server/pkg/rtc"
+	"github.com/stoked/livekit-server/pkg/rtc"
 )
 
 type EgressService struct {

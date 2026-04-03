@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/bwe"
-	"github.com/stoatchat/livekit-server/pkg/sfu/ccutils"
+	"github.com/stoked/livekit-server/pkg/sfu/bwe"
+	"github.com/stoked/livekit-server/pkg/sfu/ccutils"
 	"github.com/livekit/protocol/logger"
 	"github.com/livekit/protocol/utils/mono"
 )

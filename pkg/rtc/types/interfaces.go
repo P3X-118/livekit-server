@@ -27,12 +27,12 @@ import (
 	"github.com/livekit/protocol/observability/roomobs"
 	"github.com/livekit/protocol/utils"
 
-	"github.com/stoatchat/livekit-server/pkg/routing"
-	"github.com/stoatchat/livekit-server/pkg/sfu"
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
-	"github.com/stoatchat/livekit-server/pkg/sfu/pacer"
-	"github.com/stoatchat/livekit-server/pkg/telemetry"
+	"github.com/stoked/livekit-server/pkg/routing"
+	"github.com/stoked/livekit-server/pkg/sfu"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/sfu/pacer"
+	"github.com/stoked/livekit-server/pkg/telemetry"
 
 	"google.golang.org/protobuf/proto"
 )

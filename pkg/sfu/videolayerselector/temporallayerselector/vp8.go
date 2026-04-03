@@ -15,7 +15,7 @@
 package temporallayerselector
 
 import (
-	"github.com/stoatchat/livekit-server/pkg/sfu/buffer"
+	"github.com/stoked/livekit-server/pkg/sfu/buffer"
 	"github.com/livekit/protocol/logger"
 )
 

@@ -26,10 +26,10 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.uber.org/atomic"
 
-	"github.com/stoatchat/livekit-server/pkg/rtc/transport"
-	"github.com/stoatchat/livekit-server/pkg/rtc/transport/transportfakes"
-	"github.com/stoatchat/livekit-server/pkg/sfu/mime"
-	"github.com/stoatchat/livekit-server/pkg/testutils"
+	"github.com/stoked/livekit-server/pkg/rtc/transport"
+	"github.com/stoked/livekit-server/pkg/rtc/transport/transportfakes"
+	"github.com/stoked/livekit-server/pkg/sfu/mime"
+	"github.com/stoked/livekit-server/pkg/testutils"
 	"github.com/livekit/protocol/livekit"
 )
 

@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/livekit/protocol/livekit"
-	"github.com/stoatchat/livekit-server/pkg/routing"
+	"github.com/stoked/livekit-server/pkg/routing"
 	"google.golang.org/protobuf/proto"
 )
 

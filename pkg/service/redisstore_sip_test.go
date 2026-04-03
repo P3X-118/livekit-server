@@ -28,7 +28,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/stoatchat/livekit-server/pkg/service"
+	"github.com/stoked/livekit-server/pkg/service"
 )
 
 func TestSIPStoreDispatch(t *testing.T) {

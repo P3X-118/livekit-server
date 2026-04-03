@@ -6,8 +6,8 @@ import (
 
 	"github.com/livekit/protocol/livekit"
 	webrtc "github.com/pion/webrtc/v4"
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
-	"github.com/stoatchat/livekit-server/pkg/sfu"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/sfu"
 )
 
 type FakeSubscribedTrack struct {

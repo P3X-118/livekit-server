@@ -31,12 +31,12 @@ import (
 	"github.com/livekit/protocol/logger"
 	"github.com/livekit/protocol/utils/guid"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/routing"
-	"github.com/stoatchat/livekit-server/pkg/service"
-	"github.com/stoatchat/livekit-server/pkg/telemetry/prometheus"
-	"github.com/stoatchat/livekit-server/pkg/testutils"
-	testclient "github.com/stoatchat/livekit-server/test/client"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/routing"
+	"github.com/stoked/livekit-server/pkg/service"
+	"github.com/stoked/livekit-server/pkg/telemetry/prometheus"
+	"github.com/stoked/livekit-server/pkg/testutils"
+	testclient "github.com/stoked/livekit-server/test/client"
 )
 
 const (

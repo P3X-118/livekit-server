@@ -18,7 +18,7 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/stoatchat/livekit-server/pkg/sfu/ccutils"
+	"github.com/stoked/livekit-server/pkg/sfu/ccutils"
 	"github.com/livekit/protocol/logger"
 	"github.com/livekit/protocol/utils/mono"
 )

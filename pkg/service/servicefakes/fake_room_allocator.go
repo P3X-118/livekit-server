@@ -6,7 +6,7 @@ import (
 	"sync"
 
 	"github.com/livekit/protocol/livekit"
-	"github.com/stoatchat/livekit-server/pkg/service"
+	"github.com/stoked/livekit-server/pkg/service"
 )
 
 type FakeRoomAllocator struct {

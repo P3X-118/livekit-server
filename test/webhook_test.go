@@ -33,11 +33,11 @@ import (
 	"github.com/livekit/protocol/utils/guid"
 	"github.com/livekit/protocol/webhook"
 
-	"github.com/stoatchat/livekit-server/pkg/config"
-	"github.com/stoatchat/livekit-server/pkg/routing"
-	"github.com/stoatchat/livekit-server/pkg/rtc/types"
-	"github.com/stoatchat/livekit-server/pkg/service"
-	"github.com/stoatchat/livekit-server/pkg/testutils"
+	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/stoked/livekit-server/pkg/routing"
+	"github.com/stoked/livekit-server/pkg/rtc/types"
+	"github.com/stoked/livekit-server/pkg/service"
+	"github.com/stoked/livekit-server/pkg/testutils"
 )
 
 func TestWebhooks(t *testing.T) {

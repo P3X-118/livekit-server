@@ -19,7 +19,7 @@ import (
 
 	"github.com/livekit/protocol/livekit"
 
-	"github.com/stoatchat/livekit-server/pkg/routing/selector"
+	"github.com/stoked/livekit-server/pkg/routing/selector"
 )
 
 func SortByTest(t *testing.T, sortBy string) {
