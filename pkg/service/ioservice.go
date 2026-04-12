@@ -24,7 +24,7 @@ import (
 	"github.com/livekit/protocol/rpc"
 	"github.com/livekit/psrpc"
 
-	"github.com/stoked/livekit-server/pkg/telemetry"
+	"github.com/P3X-118/livekit-server/pkg/telemetry"
 )
 
 type IOInfoService struct {

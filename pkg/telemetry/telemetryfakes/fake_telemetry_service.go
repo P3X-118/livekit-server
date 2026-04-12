@@ -7,8 +7,8 @@ import (
 
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/observability/roomobs"
-	"github.com/stoked/livekit-server/pkg/sfu/mime"
-	"github.com/stoked/livekit-server/pkg/telemetry"
+	"github.com/P3X-118/livekit-server/pkg/sfu/mime"
+	"github.com/P3X-118/livekit-server/pkg/telemetry"
 )
 
 type FakeTelemetryService struct {

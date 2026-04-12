@@ -22,7 +22,7 @@ import (
 	"github.com/redis/go-redis/v9"
 	"github.com/stretchr/testify/require"
 
-	"github.com/stoked/livekit-server/pkg/service"
+	"github.com/P3X-118/livekit-server/pkg/service"
 )
 
 func redisClientDocker(t testing.TB) *redis.Client {

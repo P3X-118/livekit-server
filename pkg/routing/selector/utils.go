@@ -23,7 +23,7 @@ import (
 
 	"github.com/livekit/protocol/livekit"
 
-	"github.com/stoked/livekit-server/pkg/config"
+	"github.com/P3X-118/livekit-server/pkg/config"
 )
 
 const AvailableSeconds = 5

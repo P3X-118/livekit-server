@@ -15,8 +15,8 @@
 package videolayerselector
 
 import (
-	"github.com/stoked/livekit-server/pkg/sfu/buffer"
-	"github.com/stoked/livekit-server/pkg/sfu/videolayerselector/temporallayerselector"
+	"github.com/P3X-118/livekit-server/pkg/sfu/buffer"
+	"github.com/P3X-118/livekit-server/pkg/sfu/videolayerselector/temporallayerselector"
 	"github.com/livekit/protocol/logger"
 )
 

@@ -21,8 +21,8 @@ import (
 	"github.com/livekit/protocol/utils"
 	"github.com/livekit/protocol/utils/guid"
 
-	"github.com/stoked/livekit-server/pkg/rtc/types"
-	"github.com/stoked/livekit-server/pkg/rtc/types/typesfakes"
+	"github.com/P3X-118/livekit-server/pkg/rtc/types"
+	"github.com/P3X-118/livekit-server/pkg/rtc/types/typesfakes"
 )
 
 func NewMockParticipant(identity livekit.ParticipantIdentity, protocol types.ProtocolVersion, hidden bool, publisher bool) *typesfakes.FakeLocalParticipant {
