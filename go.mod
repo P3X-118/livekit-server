@@ -151,4 +151,4 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
-replace github.com/livekit/protocol => github.com/P3X-118/livekit-protocol v0.0.0-20251023140146-6a2a05af5917
+replace github.com/livekit/protocol => github.com/P3X-118/livekit-protocol v0.0.0-20260412200848-171d1e5241ab
